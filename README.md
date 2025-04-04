@@ -12,6 +12,9 @@ La configuración se realiza añadiendo patrones en el archivo para ignorar arch
 
 Por ejemplo: con *.exe se ignoraron todos los archivos que sean del tipo .exe (es inncesaria subir a uno Git un .exe)
 
+3. c)
+
+No hace falta subir archivos como a.exe, .vscode, o cualquier archivo generado automáticamente por el IDE, ya que no forman parte del código fuente y pueden variar de una computadora a otra.
 
 3. g)
 
